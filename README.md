@@ -7,7 +7,7 @@ A decorative twolayer PCB inspired by traditional Chinese red envelopes and the 
 - **Top layer:** Custom PCB-art
 - **Bottom layer:** Blank - available for yor customization
 
-<img width="2160" height="3087" alt="3D_PCB1_2026-10-31" src="https://github.com/user-attachments/assets/a52ba301-add1-48cc-9d02-f17b7cd04ae4" />
+<img width="648" height="926" alt="3D_PCB1_2026-10-31(3)" src="https://github.com/user-attachments/assets/dc1dbd5e-ad43-4073-862b-a5f0c0e1c71f" />
 
 ### Recommended PCB Finish
 For the best result I recommend:
